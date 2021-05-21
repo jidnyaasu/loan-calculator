@@ -1,2 +1,2 @@
 # loan-calculator
-Loan calculator project done learning and assignment on JetBrains Academy.
+Loan calculator project done while learning and as an assignment on JetBrains Academy.
